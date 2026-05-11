@@ -1,0 +1,82 @@
+[
+  {
+    "word": "Delicious",
+    "phonetic": "/dɪˈlɪʃəs/",
+    "meaning": "Ngon",
+    "example": "This pasta is absolutely delicious!",
+    "category": "Food",
+    "image": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601"
+  },
+  {
+    "word": "Savory",
+    "phonetic": "/ˈseɪvəri/",
+    "meaning": "Mặn, có vị mặn (không ngọt)",
+    "example": "I prefer savory snacks like crackers over sweet ones.",
+    "category": "Food",
+    "image": "https://images.unsplash.com/photo-1625938144755-6b6fa14d1662"
+  },
+  {
+    "word": "Appetizer",
+    "phonetic": "/ˈæpɪtaɪzər/",
+    "meaning": "Món khai vị",
+    "example": "We ordered spring rolls as an appetizer before the main course.",
+    "category": "Food",
+    "image": "https://images.unsplash.com/photo-1625938144755-6b6fa14d1662"
+  },
+  {
+    "word": "Main Course",
+    "phonetic": "/meɪn kɔːrs/",
+    "meaning": "Món chính",
+    "example": "For the main course, I'll have the grilled salmon.",
+    "category": "Food",
+    "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c"
+  },
+  {
+    "word": "Dessert",
+    "phonetic": "/dɪˈzɜːrt/",
+    "meaning": "Món tráng miệng",
+    "example": "Chocolate cake is my favorite dessert after dinner.",
+    "category": "Food",
+    "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587"
+  },
+  {
+    "word": "Ingredients",
+    "phonetic": "/ɪnˈɡriːdiənts/",
+    "meaning": "Nguyên liệu",
+    "example": "Check the ingredients list to avoid any allergies.",
+    "category": "Food",
+    "image": "https://images.unsplash.com/photo-1557844352-761f2565b576"
+  },
+  {
+    "word": "Flavor",
+    "phonetic": "/ˈfleɪvər/",
+    "meaning": "Hương vị",
+    "example": "This soup has a rich and unique flavor.",
+    "category": "Food",
+    "image": "https://images.unsplash.com/photo-1504940892013-d3b5ec2e9632"
+  },
+  {
+    "word": "Spicy",
+    "phonetic": "/ˈspaɪsi/",
+    "meaning": "Cay",
+    "example": "I love eating spicy Thai curry on a cold day.",
+    "category": "Food",
+    "image": "https://images.unsplash.com/photo-1505253758473-96b7015fcd40"
+  },
+  {
+    "word": "Fresh",
+    "phonetic": "/freʃ/",
+    "meaning": "Tươi",
+    "example": "Always use fresh vegetables for a healthy salad.",
+    "category": "Food",
+    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd"
+  },
+  {
+    "word": "Leftovers",
+    "phonetic": "/ˈleftoʊvərz/",
+    "meaning": "Đồ ăn thừa",
+    "example": "We ate leftovers from yesterday's dinner for lunch.",
+    "category": "Food",
+    "image": "https://images.unsplash.com/photo-1581299894007-aaa50297cf16"
+  }
+]

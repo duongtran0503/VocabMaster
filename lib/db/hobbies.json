@@ -1,0 +1,770 @@
+[
+  {
+    "word": "Painting",
+    "phonetic": "/ˈpeɪntɪŋ/",
+    "meaning": "Vẽ tranh",
+    "example": "She spends every Sunday morning painting landscapes in the park.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b"
+  },
+  {
+    "word": "Gardening",
+    "phonetic": "/ˈɡɑːrdnɪŋ/",
+    "meaning": "Làm vườn",
+    "example": "My grandmother finds joy in gardening and growing her own vegetables.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b"
+  },
+  {
+    "word": "Photography",
+    "phonetic": "/fəˈtɑːɡrəfi/",
+    "meaning": "Nhiếp ảnh",
+    "example": "He took up photography to capture beautiful moments during his travels.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1452780212940-6f5c0d14b848"
+  },
+  {
+    "word": "Cooking",
+    "phonetic": "/ˈkʊkɪŋ/",
+    "meaning": "Nấu ăn",
+    "example": "Cooking helps me relax after a long day at work.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1556911220-bda9f5f3e6e3"
+  },
+  {
+    "word": "Hiking",
+    "phonetic": "/ˈhaɪkɪŋ/",
+    "meaning": "Đi bộ đường dài",
+    "example": "They went hiking in the mountains every weekend to enjoy nature.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1551632811-561732d1e306"
+  },
+  {
+    "word": "Playing Guitar",
+    "phonetic": "/ˈpleɪɪŋ ɡɪˈtɑːr/",
+    "meaning": "Chơi đàn guitar",
+    "example": "Playing guitar has become his favorite way to express emotions.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1471380700860-3e36b7daab0e"
+  },
+  {
+    "word": "Knitting",
+    "phonetic": "/ˈnɪtɪŋ/",
+    "meaning": "Đan len",
+    "example": "She enjoys knitting scarves and blankets for her family during winter.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1580224169960-d61ffc6a00ed"
+  },
+  {
+    "word": "Fishing",
+    "phonetic": "/ˈfɪʃɪŋ/",
+    "meaning": "Câu cá",
+    "example": "Fishing requires patience and a love for quiet time by the water.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1465933442083-eb1838fe78d6"
+  },
+  {
+    "word": "Yoga",
+    "phonetic": "/ˈjoʊɡə/",
+    "meaning": "Yoga",
+    "example": "She practices yoga every morning to stay flexible and calm.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b"
+  },
+  {
+    "word": "Birdwatching",
+    "phonetic": "/ˈbɜːrdwɒtʃɪŋ/",
+    "meaning": "Ngắm chim",
+    "example": "Birdwatching is a peaceful hobby that connects you with nature.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1522926193341-e9ffd686c69f"
+  },
+  {
+    "word": "Reading",
+    "phonetic": "/ˈriːdɪŋ/",
+    "meaning": "Đọc sách",
+    "example": "Reading fiction before bed helps me unwind.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66"
+  },
+  {
+    "word": "Writing",
+    "phonetic": "/ˈraɪtɪŋ/",
+    "meaning": "Viết lách",
+    "example": "Writing in a journal allows me to reflect on my day.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1455390582262-044cdead277a"
+  },
+  {
+    "word": "Dancing",
+    "phonetic": "/ˈdænsɪŋ/",
+    "meaning": "Khiêu vũ",
+    "example": "Dancing makes me feel energetic and happy.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad"
+  },
+  {
+    "word": "Singing",
+    "phonetic": "/ˈsɪŋɪŋ/",
+    "meaning": "Ca hát",
+    "example": "Singing in the shower is my secret hobby.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1471478331149-c72f17e33c73"
+  },
+  {
+    "word": "Cycling",
+    "phonetic": "/ˈsaɪklɪŋ/",
+    "meaning": "Đạp xe",
+    "example": "Cycling through the countryside is both healthy and relaxing.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1485965120184-e220f721d03e"
+  },
+  {
+    "word": "Swimming",
+    "phonetic": "/ˈswɪmɪŋ/",
+    "meaning": "Bơi lội",
+    "example": "Swimming is a full-body workout that I truly enjoy.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1519904981063-b0cf448d479e"
+  },
+  {
+    "word": "Running",
+    "phonetic": "/ˈrʌnɪŋ/",
+    "meaning": "Chạy bộ",
+    "example": "Running every morning clears my mind.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1530549387789-4c1017266635"
+  },
+  {
+    "word": "Camping",
+    "phonetic": "/ˈkæmpɪŋ/",
+    "meaning": "Cắm trại",
+    "example": "Camping under the stars is a wonderful escape from city life.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4"
+  },
+  {
+    "word": "Fishing",
+    "phonetic": "/ˈfɪʃɪŋ/",
+    "meaning": "Câu cá",
+    "example": "He loves fishing at the lake every summer morning.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1465933442083-eb1838fe78d6"
+  },
+  {
+    "word": "Woodworking",
+    "phonetic": "/ˈwʊdwɜːrkɪŋ/",
+    "meaning": "Mộc",
+    "example": "Woodworking allows him to create furniture with his own hands.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1589939705384-5185137a7f0f"
+  },
+  {
+    "word": "Pottery",
+    "phonetic": "/ˈpɑːtəri/",
+    "meaning": "Làm gốm",
+    "example": "Pottery helps her focus and express creativity.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1565193566173-7a0ee3dbe461"
+  },
+  {
+    "word": "Calligraphy",
+    "phonetic": "/kəˈlɪɡrəfi/",
+    "meaning": "Thư pháp",
+    "example": "Calligraphy requires patience and a steady hand.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1586075010923-2dd4570fb338"
+  },
+  {
+    "word": "Origami",
+    "phonetic": "/ˌɔːrɪˈɡɑːmi/",
+    "meaning": "Xếp giấy Nhật Bản",
+    "example": "Origami turns a simple sheet of paper into beautiful art.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1544816155-12df9643f363"
+  },
+  {
+    "word": "Scrapbooking",
+    "phonetic": "/ˈskræpbʊkɪŋ/",
+    "meaning": "Làm sổ lưu niệm",
+    "example": "Scrapbooking helps her preserve precious memories.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1513342890684-8f1be1d66b1e"
+  },
+  {
+    "word": "Sudoku",
+    "phonetic": "/suːˈdoʊkuː/",
+    "meaning": "Giải Sudoku",
+    "example": "Solving Sudoku puzzles sharpens my logical thinking.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1581091226033-d5c48150dbaa"
+  },
+  {
+    "word": "Chess",
+    "phonetic": "/tʃes/",
+    "meaning": "Cờ vua",
+    "example": "Playing chess improves concentration and strategy skills.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1586165368502-1bad197a6461"
+  },
+  {
+    "word": "Board Games",
+    "phonetic": "/bɔːrd ɡeɪmz/",
+    "meaning": "Chơi board game",
+    "example": "Board game nights bring friends together for fun.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1521133575344-385fd66fa6df"
+  },
+  {
+    "word": "Video Gaming",
+    "phonetic": "/ˈvɪdioʊ ˈɡeɪmɪŋ/",
+    "meaning": "Chơi game điện tử",
+    "example": "Video gaming is his way to unwind after work.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e"
+  },
+  {
+    "word": "Baking",
+    "phonetic": "/ˈbeɪkɪŋ/",
+    "meaning": "Nướng bánh",
+    "example": "Baking cookies makes the whole house smell wonderful.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1464305795204-6f5bbfc7fb81"
+  },
+  {
+    "word": "Sewing",
+    "phonetic": "/ˈsoʊɪŋ/",
+    "meaning": "May vá",
+    "example": "Sewing her own clothes gives her a sense of pride.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1581349485609-8131389b1eb4"
+  },
+  {
+    "word": "Embroidery",
+    "phonetic": "/ɪmˈbrɔɪdəri/",
+    "meaning": "Thêu",
+    "example": "Embroidery is a meditative and creative hobby.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1581349486005-db8e6f3d52e9"
+  },
+  {
+    "word": "Coloring",
+    "phonetic": "/ˈkʌlərɪŋ/",
+    "meaning": "Tô màu",
+    "example": "Adult coloring books help reduce stress.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634"
+  },
+  {
+    "word": "Meditation",
+    "phonetic": "/ˌmedɪˈteɪʃn/",
+    "meaning": "Thiền",
+    "example": "Meditation helps me stay calm and focused.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773"
+  },
+  {
+    "word": "Archery",
+    "phonetic": "/ˈɑːrtʃəri/",
+    "meaning": "Bắn cung",
+    "example": "Archery teaches patience and precision.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1517423568370-5c96a30bc1b7"
+  },
+  {
+    "word": "Rock Climbing",
+    "phonetic": "/rɑːk ˈklaɪmɪŋ/",
+    "meaning": "Leo núi đá",
+    "example": "Rock climbing challenges both body and mind.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1522163182402-834f871fd851"
+  },
+  {
+    "word": "Skateboarding",
+    "phonetic": "/ˈskeɪtbɔːrdɪŋ/",
+    "meaning": "Trượt ván",
+    "example": "Skateboarding is a fun way to explore the city.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1564982752979-3f7bc974d29a"
+  },
+  {
+    "word": "Surfing",
+    "phonetic": "/ˈsɜːrfɪŋ/",
+    "meaning": "Lướt sóng",
+    "example": "Surfing gives him an incredible sense of freedom.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1502680390469-be75c86b636f"
+  },
+  {
+    "word": "Skiing",
+    "phonetic": "/ˈskiːɪŋ/",
+    "meaning": "Trượt tuyết",
+    "example": "Skiing down fresh powder is pure joy.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1551524559-8af4e6624178"
+  },
+  {
+    "word": "Snowboarding",
+    "phonetic": "/ˈsnoʊbɔːrdɪŋ/",
+    "meaning": "Trượt ván trên tuyết",
+    "example": "Snowboarding is faster and more dynamic than skiing.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1551698618-1dfe5d97d256"
+  },
+  {
+    "word": "Horseback Riding",
+    "phonetic": "/ˈhɔːrsbæk ˈraɪdɪŋ/",
+    "meaning": "Cưỡi ngựa",
+    "example": "Horseback riding connects her with animals and nature.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1515462277121-2a17e1616fa9"
+  },
+  {
+    "word": "Martial Arts",
+    "phonetic": "/ˈmɑːrʃl ɑːrts/",
+    "meaning": "Võ thuật",
+    "example": "Martial arts improve discipline and self-defense.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1555597673-b21d5c935865"
+  },
+  {
+    "word": "Weightlifting",
+    "phonetic": "/ˈweɪtlɪftɪŋ/",
+    "meaning": "Cử tạ",
+    "example": "Weightlifting builds strength and confidence.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48"
+  },
+  {
+    "word": "Pilates",
+    "phonetic": "/pɪˈlɑːtiːz/",
+    "meaning": "Pilates",
+    "example": "Pilates strengthens the core and improves posture.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a"
+  },
+  {
+    "word": "Zumba",
+    "phonetic": "/ˈzʊmbə/",
+    "meaning": "Zumba",
+    "example": "Zumba is a fun, high-energy dance workout.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1599058917212-d750089bc07e"
+  },
+  {
+    "word": "Billiards",
+    "phonetic": "/ˈbɪljərdz/",
+    "meaning": "Bi-a",
+    "example": "Playing billiards requires strategy and a steady hand.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1521577352947-9a4c3ab4b6b6"
+  },
+  {
+    "word": "Darts",
+    "phonetic": "/dɑːrts/",
+    "meaning": "Ném phi tiêu",
+    "example": "Darts is a classic pub game that improves focus.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1582639518797-96e7b85bddcd"
+  },
+  {
+    "word": "Bowling",
+    "phonetic": "/ˈboʊlɪŋ/",
+    "meaning": "Chơi bowling",
+    "example": "Bowling is a fun social activity for all ages.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1517167685289-96a27681ab11"
+  },
+  {
+    "word": "Golfing",
+    "phonetic": "/ˈɡɑːlfɪŋ/",
+    "meaning": "Chơi golf",
+    "example": "Golfing requires patience and precise technique.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1535131749006-b7f58c99034b"
+  },
+  {
+    "word": "Tennis",
+    "phonetic": "/ˈtenɪs/",
+    "meaning": "Quần vợt",
+    "example": "Playing tennis keeps me active and competitive.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1622279452620-fd856c2222c6"
+  },
+  {
+    "word": "Badminton",
+    "phonetic": "/ˈbædmɪntən/",
+    "meaning": "Cầu lông",
+    "example": "Badminton is fast-paced and great for reflexes.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1613918431702-7c7eb387ae9a"
+  },
+  {
+    "word": "Table Tennis",
+    "phonetic": "/ˈteɪbəl ˈtenɪs/",
+    "meaning": "Bóng bàn",
+    "example": "Table tennis improves hand-eye coordination a lot.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1615195555427-545f6bbb8d40"
+  },
+  {
+    "word": "Volleyball",
+    "phonetic": "/ˈvɑːlibɔːl/",
+    "meaning": "Bóng chuyền",
+    "example": "Beach volleyball is both fun and exhausting.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1612872087720-bb876e12e4a3"
+  },
+  {
+    "word": "Basketball",
+    "phonetic": "/ˈbæskɪtbɔːl/",
+    "meaning": "Bóng rổ",
+    "example": "Shooting hoops after school relaxes me.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1546519638-68e109498ffc"
+  },
+  {
+    "word": "Soccer",
+    "phonetic": "/ˈsɑːkər/",
+    "meaning": "Bóng đá",
+    "example": "Soccer teaches teamwork and endurance.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55"
+  },
+  {
+    "word": "Baseball",
+    "phonetic": "/ˈbeɪsbɔːl/",
+    "meaning": "Bóng chày",
+    "example": "Playing catch is a simple but enjoyable hobby.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1540747913346-19e32dc3e97e"
+  },
+  {
+    "word": "Cricket",
+    "phonetic": "/ˈkrɪkɪt/",
+    "meaning": "Cricket",
+    "example": "Cricket matches can last all day and are very social.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1531415074968-036ba1b575da"
+  },
+  {
+    "word": "Rugby",
+    "phonetic": "/ˈrʌɡbi/",
+    "meaning": "Bóng bầu dục",
+    "example": "Rugby is intense and builds strong bonds among players.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1522771739844-6a9f6d5c14af"
+  },
+  {
+    "word": "Roller Skating",
+    "phonetic": "/ˈroʊlər skeɪtɪŋ/",
+    "meaning": "Trượt patin",
+    "example": "Roller skating at the park is pure nostalgia.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1561731216-c3a4d99437d5"
+  },
+  {
+    "word": "Ice Skating",
+    "phonetic": "/aɪs ˈskeɪtɪŋ/",
+    "meaning": "Trượt băng",
+    "example": "Ice skating feels like gliding on air.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1551522435-a13afa10f103"
+  },
+  {
+    "word": "Kitesurfing",
+    "phonetic": "/ˈkaɪtsɜːrfɪŋ/",
+    "meaning": "Lướt diều",
+    "example": "Kitesurfing combines wind, waves, and adrenaline.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1503428593586-e225b39bddfe"
+  },
+  {
+    "word": "Scuba Diving",
+    "phonetic": "/ˈskuːbə daɪvɪŋ/",
+    "meaning": "Lặn bình khí",
+    "example": "Scuba diving reveals a completely different world underwater.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5"
+  },
+  {
+    "word": "Snorkeling",
+    "phonetic": "/ˈsnɔːrkəlɪŋ/",
+    "meaning": "Lặn ống",
+    "example": "Snorkeling is easier than diving and still amazing.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1519883944464-1562d23b4a1c"
+  },
+  {
+    "word": "Canoeing",
+    "phonetic": "/kəˈnuːɪŋ/",
+    "meaning": "Chèo xuồng",
+    "example": "Canoeing on a calm lake is very peaceful.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1504280319302-6c1b6e9e3d69"
+  },
+  {
+    "word": "Kayaking",
+    "phonetic": "/ˈkaɪækɪŋ/",
+    "meaning": "Chèo thuyền kayak",
+    "example": "Kayaking through mangroves is an adventure.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1468413253725-0d5181095642"
+  },
+  {
+    "word": "Rowing",
+    "phonetic": "/ˈroʊɪŋ/",
+    "meaning": "Chèo thuyền",
+    "example": "Rowing builds incredible upper body strength.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1534582899951-3b3f5e3e4c49"
+  },
+  {
+    "word": "Sailing",
+    "phonetic": "/ˈseɪlɪŋ/",
+    "meaning": "Đi thuyền buồm",
+    "example": "Sailing teaches you to read the wind.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1499792428784-d50f96d1b3c1"
+  },
+  {
+    "word": "DIY Crafts",
+    "phonetic": "/diː aɪ waɪ kræfts/",
+    "meaning": "Đồ thủ công tự làm",
+    "example": "DIY crafts save money and feel rewarding.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1463320726281-696a485928c7"
+  },
+  {
+    "word": "Jigsaw Puzzles",
+    "phonetic": "/ˈdʒɪɡsɔː ˈpʌzəlz/",
+    "meaning": "Ghép hình",
+    "example": "Working on jigsaw puzzles helps me relax.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1581089182974-7d8ea3a24aa9"
+  },
+  {
+    "word": "Crossword Puzzles",
+    "phonetic": "/ˈkrɔːswɜːrd ˈpʌzəlz/",
+    "meaning": "Giải ô chữ",
+    "example": "Crossword puzzles keep my vocabulary sharp.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1550581190-9c1c48d0d6e3"
+  },
+  {
+    "word": "Learning Languages",
+    "phonetic": "/ˈlɜːrnɪŋ ˈlæŋɡwɪdʒɪz/",
+    "meaning": "Học ngoại ngữ",
+    "example": "Learning languages opens doors to other cultures.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8"
+  },
+  {
+    "word": "Playing Piano",
+    "phonetic": "/ˈpleɪɪŋ piˈænoʊ/",
+    "meaning": "Chơi piano",
+    "example": "Playing piano expresses feelings words cannot.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1520523839897-bd0b52f945a0"
+  },
+  {
+    "word": "Playing Drums",
+    "phonetic": "/ˈpleɪɪŋ drʌmz/",
+    "meaning": "Chơi trống",
+    "example": "Playing drums releases a lot of energy.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1507833423370-a126b89d394b"
+  },
+  {
+    "word": "DJing",
+    "phonetic": "/ˈdiːdʒeɪɪŋ/",
+    "meaning": "Chơi nhạc DJ",
+    "example": "DJing lets you mix tracks and control the vibe.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1571935495538-9b3d99ecf200"
+  },
+  {
+    "word": "Beatboxing",
+    "phonetic": "/ˈbiːtbɑːksɪŋ/",
+    "meaning": "Nhạc beatbox",
+    "example": "Beatboxing turns your mouth into an instrument.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1511671782779-c97d50d27f2c"
+  },
+  {
+    "word": "Graffiti",
+    "phonetic": "/ɡrəˈfiːti/",
+    "meaning": "Vẽ graffiti",
+    "example": "Graffiti is a bold form of street art.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1521261886963-30c5b8b7c7c9"
+  },
+  {
+    "word": "Cartooning",
+    "phonetic": "/kɑːrˈtuːnɪŋ/",
+    "meaning": "Vẽ biếm họa",
+    "example": "Cartooning makes people laugh with simple drawings.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634"
+  },
+  {
+    "word": "Animation",
+    "phonetic": "/ˌænɪˈmeɪʃn/",
+    "meaning": "Làm hoạt hình",
+    "example": "Animation brings characters to life frame by frame.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1510070112810-d4e9a46d9e91"
+  },
+  {
+    "word": "Video Editing",
+    "phonetic": "/ˈvɪdioʊ ˈedɪtɪŋ/",
+    "meaning": "Dựng video",
+    "example": "Video editing turns raw clips into stories.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1536240474400-b2b1b1c0a7c2"
+  },
+  {
+    "word": "Podcasting",
+    "phonetic": "/ˈpɑːdkæstɪŋ/",
+    "meaning": "Làm podcast",
+    "example": "Podcasting lets you share your voice with the world.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1590602847861-f357a9332bbc"
+  },
+  {
+    "word": "Blogging",
+    "phonetic": "/ˈblɔːɡɪŋ/",
+    "meaning": "Viết blog",
+    "example": "Blogging about hobbies connects you with like-minded people.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a"
+  },
+  {
+    "word": "Callisthenics",
+    "phonetic": "/ˌkælɪsˈθenɪks/",
+    "meaning": "Tập thể dục thân thể",
+    "example": "Callisthenics uses your own body weight for strength.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1532384748853-8f54a8f476e2"
+  },
+  {
+    "word": "Parkour",
+    "phonetic": "/pɑːrˈkʊr/",
+    "meaning": "Parkour",
+    "example": "Parkour turns the city into an obstacle course.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1511727552158-ef53206cff68"
+  },
+  {
+    "word": "Geo-caching",
+    "phonetic": "/ˈdʒiːoʊ kæʃɪŋ/",
+    "meaning": "Tìm kho báu GPS",
+    "example": "Geo-caching is like a worldwide treasure hunt.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1531842477197-54acf89bff98"
+  },
+  {
+    "word": "Astronomy",
+    "phonetic": "/əˈstrɑːnəmi/",
+    "meaning": "Thiên văn nghiệp dư",
+    "example": "Astronomy lets you explore the night sky with a telescope.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a"
+  },
+  {
+    "word": "Stargazing",
+    "phonetic": "/ˈstɑːrɡeɪzɪŋ/",
+    "meaning": "Ngắm sao",
+    "example": "Stargazing is free and awe-inspiring.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1509316785289-025f5b846b35"
+  },
+  {
+    "word": "Fossil Hunting",
+    "phonetic": "/ˈfɑːsl ˈhʌntɪŋ/",
+    "meaning": "Tìm hóa thạch",
+    "example": "Fossil hunting feels like discovering ancient secrets.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1542327897-d73f4005b533"
+  },
+  {
+    "word": "Mushroom Foraging",
+    "phonetic": "/ˈmʌʃrʊm ˈfɔːrɪdʒɪŋ/",
+    "meaning": "Hái nấm rừng",
+    "example": "Mushroom foraging requires knowledge to stay safe.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1518556058305-98233d6dbe9c"
+  },
+  {
+    "word": "Beekeeping",
+    "phonetic": "/ˈbiːkiːpɪŋ/",
+    "meaning": "Nuôi ong",
+    "example": "Beekeeping helps the environment and produces honey.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1583753309408-4b15d2e6f2ca"
+  },
+  {
+    "word": "Home Brewing",
+    "phonetic": "/hoʊm ˈbruːɪŋ/",
+    "meaning": "Tự nấu bia/rượu",
+    "example": "Home brewing lets you experiment with unique flavors.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1566633806327-68e152a025b3"
+  },
+  {
+    "word": "Cheese Making",
+    "phonetic": "/tʃiːz ˈmeɪkɪŋ/",
+    "meaning": "Làm phô mai",
+    "example": "Cheese making is a delicious scientific process.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1501459925399-8c4f0e5fecbf"
+  },
+  {
+    "word": "Soap Making",
+    "phonetic": "/soʊp ˈmeɪkɪŋ/",
+    "meaning": "Làm xà phòng",
+    "example": "Soap making combines chemistry with creativity.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1600857544200-b2f666a9a2ec"
+  },
+  {
+    "word": "Candle Making",
+    "phonetic": "/ˈkændl ˈmeɪkɪŋ/",
+    "meaning": "Làm nến",
+    "example": "Candle making fills your home with custom scents.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1583947215250-9f1f417f3a90"
+  },
+  {
+    "word": "Jewelry Making",
+    "phonetic": "/ˈdʒuːəlri ˈmeɪkɪŋ/",
+    "meaning": "Làm đồ trang sức",
+    "example": "Jewelry making produces wearable art.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338"
+  },
+  {
+    "word": "Leather Craft",
+    "phonetic": "/ˈleðər kræft/",
+    "meaning": "Đồ da thủ công",
+    "example": "Leather craft creates durable and beautiful items.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1563461660947-507ef49e9c47"
+  },
+  {
+    "word": "Blacksmithing",
+    "phonetic": "/ˈblæksmɪθɪŋ/",
+    "meaning": "Rèn sắt",
+    "example": "Blacksmithing shapes hot metal into useful tools.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1569208644291-bfd4f5c1a857"
+  },
+  {
+    "word": "Whittling",
+    "phonetic": "/ˈwɪtlɪŋ/",
+    "meaning": "Chạm khắc gỗ bằng dao",
+    "example": "Whittling is a portable and relaxing craft.",
+    "category": "Hobby",
+    "image": "https://images.unsplash.com/photo-1589939705384-5185137a7f0f"
+  }
+]
