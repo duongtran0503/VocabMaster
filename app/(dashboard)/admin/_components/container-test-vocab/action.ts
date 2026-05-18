@@ -25,17 +25,17 @@ export function useTestVocab(topic: string) {
 
     useEffect(() => {
         initQuiz();
-    }, []);
+    }, [topic]); // Thêm topic vào dependency
 
     const currentQuestion = quizData[currentQuestionIndex];
     const totalQuestions = quizData.length;
     const answeredCount = Object.keys(selectedAnswers).length;
 
-    const handleSelectAnswer = (optionLabel: string) => {
-        if (!currentQuestion) return;
+    // SỬA: Nhận cả questionId và optionLabel
+    const handleSelectAnswer = (questionId: number, optionLabel: string) => {
         setSelectedAnswers(prev => ({
             ...prev,
-            [currentQuestion.id]: optionLabel,
+            [questionId]: optionLabel,
         }));
     };
 
@@ -79,7 +79,7 @@ export function useTestVocab(topic: string) {
         answeredCount,
         selectedAnswers,
         showResults,
-        handleSelectAnswer,
+        handleSelectAnswer, // Giờ đã nhận 2 tham số
         handleNext,
         handlePrevious,
         handleSubmit,

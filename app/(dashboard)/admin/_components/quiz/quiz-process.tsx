@@ -32,28 +32,7 @@ export function QuizProgress({ current, total, answered }: QuizProgressProps) {
                 />
             </div>
 
-            {/* Question Indicators */}
-            <div className="flex gap-2 mt-4 flex-wrap">
-                {Array.from({ length: total }, (_, i) => {
-                    const questionNum = i + 1;
-                    const isCurrent = questionNum === current;
-                    const isAnswered = answered >= questionNum;
 
-                    return (
-                        <div
-                            key={i}
-                            className={`w-8 h-8 rounded-lg flex items-center justify-center text-sm transition-all ${isCurrent
-                                ? 'bg-indigo-600 text-white ring-2 ring-indigo-600 ring-offset-2'
-                                : isAnswered
-                                    ? 'bg-green-100 text-green-700 border border-green-300'
-                                    : 'bg-gray-100 text-gray-500 border border-gray-300'
-                                }`}
-                        >
-                            {questionNum}
-                        </div>
-                    );
-                })}
-            </div>
         </div>
     );
 }

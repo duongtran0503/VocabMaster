@@ -1,0 +1,2242 @@
+[
+  {
+    "word": "a",
+    "phonetic": "/ə/",
+    "meaning": "Một",
+    "example": "I have a book on the table.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c"
+  },
+  {
+    "word": "an",
+    "phonetic": "/ən/",
+    "meaning": "Một",
+    "example": "She ate an apple this morning.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6"
+  },
+  {
+    "word": "about",
+    "phonetic": "/əˈbaʊt/",
+    "meaning": "Về, khoảng",
+    "example": "Tell me about your weekend.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1456324504439-367cee3b3c32"
+  },
+  {
+    "word": "above",
+    "phonetic": "/əˈbʌv/",
+    "meaning": "Trên, phía trên",
+    "example": "The sun rose above the mountains.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4"
+  },
+  {
+    "word": "across",
+    "phonetic": "/əˈkrɔːs/",
+    "meaning": "Qua, ngang qua",
+    "example": "He walked across the bridge.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b"
+  },
+  {
+    "word": "action",
+    "phonetic": "/ˈækʃən/",
+    "meaning": "Hành động",
+    "example": "We need to take action immediately.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d"
+  },
+  {
+    "word": "activity",
+    "phonetic": "/ækˈtɪvəti/",
+    "meaning": "Hoạt động",
+    "example": "Reading is a relaxing activity.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8"
+  },
+  {
+    "word": "actor",
+    "phonetic": "/ˈæktər/",
+    "meaning": "Diễn viên nam",
+    "example": "He is a famous Hollywood actor.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1509347528160-9a9e33742cdb"
+  },
+  {
+    "word": "actress",
+    "phonetic": "/ˈæktrəs/",
+    "meaning": "Diễn viên nữ",
+    "example": "She won an Oscar as best actress.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04"
+  },
+  {
+    "word": "add",
+    "phonetic": "/æd/",
+    "meaning": "Thêm vào, cộng",
+    "example": "Add sugar to the mixture.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1583845112203-29329902332e"
+  },
+  {
+    "word": "address",
+    "phonetic": "/əˈdres/",
+    "meaning": "Địa chỉ",
+    "example": "Please write your address on the envelope.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1581287053356-6a3a5bf0828e"
+  },
+  {
+    "word": "adult",
+    "phonetic": "/əˈdʌlt/",
+    "meaning": "Người lớn",
+    "example": "This movie is suitable for adults.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e"
+  },
+  {
+    "word": "advice",
+    "phonetic": "/ədˈvaɪs/",
+    "meaning": "Lời khuyên",
+    "example": "She gave me some useful advice.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1589578228447-e1a4e481c6c5"
+  },
+  {
+    "word": "afraid",
+    "phonetic": "/əˈfreɪd/",
+    "meaning": "Sợ hãi",
+    "example": "I am afraid of spiders.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1516815231560-8f41ec531527"
+  },
+  {
+    "word": "after",
+    "phonetic": "/ˈæftər/",
+    "meaning": "Sau",
+    "example": "We had dinner after the movie.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1484723091739-30a097e8f929"
+  },
+  {
+    "word": "afternoon",
+    "phonetic": "/ˌæftərˈnuːn/",
+    "meaning": "Buổi chiều",
+    "example": "I will meet you this afternoon.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1500462918059-b1a0cb512f1d"
+  },
+  {
+    "word": "again",
+    "phonetic": "/əˈɡen/",
+    "meaning": "Lại",
+    "example": "Please say that again.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1503614472-8c93d56e92ce"
+  },
+  {
+    "word": "age",
+    "phonetic": "/eɪdʒ/",
+    "meaning": "Tuổi",
+    "example": "What is your age?",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1503443207922-dff7d543fd0e"
+  },
+  {
+    "word": "ago",
+    "phonetic": "/əˈɡoʊ/",
+    "meaning": "Trước đây",
+    "example": "They left ten minutes ago.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1501139083538-0139583c060f"
+  },
+  {
+    "word": "agree",
+    "phonetic": "/əˈɡriː/",
+    "meaning": "Đồng ý",
+    "example": "I agree with your opinion.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216"
+  },
+  {
+    "word": "air",
+    "phonetic": "/er/",
+    "meaning": "Không khí",
+    "example": "Fresh air is good for health.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1475924156734-496f6cac6ec1"
+  },
+  {
+    "word": "airport",
+    "phonetic": "/ˈerpɔːrt/",
+    "meaning": "Sân bay",
+    "example": "We arrived at the airport at 7 AM.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05"
+  },
+  {
+    "word": "all",
+    "phonetic": "/ɔːl/",
+    "meaning": "Tất cả",
+    "example": "All students passed the exam.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1"
+  },
+  {
+    "word": "also",
+    "phonetic": "/ˈɔːlsoʊ/",
+    "meaning": "Cũng",
+    "example": "She is a teacher and also a mother.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655"
+  },
+  {
+    "word": "always",
+    "phonetic": "/ˈɔːlweɪz/",
+    "meaning": "Luôn luôn",
+    "example": "He always wakes up early.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1506784365847-bbad939e9335"
+  },
+  {
+    "word": "amazing",
+    "phonetic": "/əˈmeɪzɪŋ/",
+    "meaning": "Tuyệt vời",
+    "example": "The view from the top is amazing.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4"
+  },
+  {
+    "word": "angry",
+    "phonetic": "/ˈæŋɡri/",
+    "meaning": "Tức giận",
+    "example": "She was angry because he lied.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1525625293386-3f8f99389edd"
+  },
+  {
+    "word": "animal",
+    "phonetic": "/ˈænɪməl/",
+    "meaning": "Động vật",
+    "example": "The lion is a wild animal.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1546182990-dffeafbe841d"
+  },
+  {
+    "word": "another",
+    "phonetic": "/əˈnʌðər/",
+    "meaning": "Khác",
+    "example": "Can I have another cup of coffee?",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085"
+  },
+  {
+    "word": "answer",
+    "phonetic": "/ˈænsər/",
+    "meaning": "Trả lời",
+    "example": "Please answer the question.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173"
+  },
+  {
+    "word": "any",
+    "phonetic": "/ˈeni/",
+    "meaning": "Bất kỳ",
+    "example": "Do you have any questions?",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b"
+  },
+  {
+    "word": "anyone",
+    "phonetic": "/ˈeniwʌn/",
+    "meaning": "Bất kỳ ai",
+    "example": "Anyone can learn to cook.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352"
+  },
+  {
+    "word": "anything",
+    "phonetic": "/ˈeniθɪŋ/",
+    "meaning": "Bất cứ điều gì",
+    "example": "I will do anything to help.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1456406644174-8ddd4cd52a06"
+  },
+  {
+    "word": "apartment",
+    "phonetic": "/əˈpɑːrtmənt/",
+    "meaning": "Căn hộ",
+    "example": "They live in a small apartment downtown.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688"
+  },
+  {
+    "word": "apple",
+    "phonetic": "/ˈæpəl/",
+    "meaning": "Quả táo",
+    "example": "An apple a day keeps the doctor away.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6"
+  },
+  {
+    "word": "april",
+    "phonetic": "/ˈeɪprəl/",
+    "meaning": "Tháng tư",
+    "example": "April is the fourth month of the year.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1523348837708-15d4a09cfac2"
+  },
+  {
+    "word": "area",
+    "phonetic": "/ˈeriə/",
+    "meaning": "Khu vực",
+    "example": "This area is very quiet.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1444723121867-7a241cacace9"
+  },
+  {
+    "word": "arm",
+    "phonetic": "/ɑːrm/",
+    "meaning": "Cánh tay",
+    "example": "He broke his arm while playing soccer.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd"
+  },
+  {
+    "word": "around",
+    "phonetic": "/əˈraʊnd/",
+    "meaning": "Xung quanh",
+    "example": "She looked around the room.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1519501025264-65ba15a82390"
+  },
+  {
+    "word": "arrive",
+    "phonetic": "/əˈraɪv/",
+    "meaning": "Đến",
+    "example": "What time will you arrive?",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05"
+  },
+  {
+    "word": "art",
+    "phonetic": "/ɑːrt/",
+    "meaning": "Nghệ thuật",
+    "example": "She loves modern art.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b"
+  },
+  {
+    "word": "article",
+    "phonetic": "/ˈɑːrtɪkəl/",
+    "meaning": "Bài báo",
+    "example": "I read an interesting article today.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c"
+  },
+  {
+    "word": "artist",
+    "phonetic": "/ˈɑːrtɪst/",
+    "meaning": "Nghệ sĩ",
+    "example": "Picasso was a famous artist.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1536924940846-227afb31e2a5"
+  },
+  {
+    "word": "as",
+    "phonetic": "/æz/",
+    "meaning": "Như",
+    "example": "He works as a teacher.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655"
+  },
+  {
+    "word": "ask",
+    "phonetic": "/æsk/",
+    "meaning": "Hỏi",
+    "example": "Don't be afraid to ask questions.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1456406644174-8ddd4cd52a06"
+  },
+  {
+    "word": "at",
+    "phonetic": "/æt/",
+    "meaning": "Tại",
+    "example": "I will meet you at the station.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1447958374760-1ce6cf81db4f"
+  },
+  {
+    "word": "august",
+    "phonetic": "/ɔːˈɡʌst/",
+    "meaning": "Tháng tám",
+    "example": "August is usually very hot.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1509554177299-af16f7f3fda4"
+  },
+  {
+    "word": "aunt",
+    "phonetic": "/ænt/",
+    "meaning": "Cô, dì",
+    "example": "My aunt lives in New York.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1501594907352-04cda38ebc29"
+  },
+  {
+    "word": "autumn",
+    "phonetic": "/ˈɔːtəm/",
+    "meaning": "Mùa thu",
+    "example": "Leaves fall in autumn.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d"
+  },
+  {
+    "word": "away",
+    "phonetic": "/əˈweɪ/",
+    "meaning": "Xa",
+    "example": "The beach is 10 miles away.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+  },
+  {
+    "word": "baby",
+    "phonetic": "/ˈbeɪbi/",
+    "meaning": "Em bé",
+    "example": "The baby is sleeping peacefully.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1519689680058-324335c77eba"
+  },
+  {
+    "word": "back",
+    "phonetic": "/bæk/",
+    "meaning": "Lưng, trở lại",
+    "example": "Please come back soon.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1483721310027-6f7b2e6bc9b6"
+  },
+  {
+    "word": "bad",
+    "phonetic": "/bæd/",
+    "meaning": "Xấu",
+    "example": "This is a bad idea.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b"
+  },
+  {
+    "word": "bag",
+    "phonetic": "/bæɡ/",
+    "meaning": "Túi",
+    "example": "She carried a heavy bag.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1491637639811-60e2756cc1c7"
+  },
+  {
+    "word": "ball",
+    "phonetic": "/bɔːl/",
+    "meaning": "Quả bóng",
+    "example": "The kids are playing with a ball.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1517344884509-0a2248f11ca2"
+  },
+  {
+    "word": "banana",
+    "phonetic": "/bəˈnænə/",
+    "meaning": "Quả chuối",
+    "example": "I eat a banana for breakfast.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1528825871115-358c003e2bc3"
+  },
+  {
+    "word": "band",
+    "phonetic": "/bænd/",
+    "meaning": "Ban nhạc",
+    "example": "My favorite band is playing tonight.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1429962714451-bb934ecdc4ec"
+  },
+  {
+    "word": "bank",
+    "phonetic": "/bæŋk/",
+    "meaning": "Ngân hàng",
+    "example": "I need to go to the bank.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1501167786227-4cba60f6d58f"
+  },
+  {
+    "word": "bath",
+    "phonetic": "/bæθ/",
+    "meaning": "Bồn tắm",
+    "example": "She takes a warm bath every evening.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1499728603263-13726abce5fd"
+  },
+  {
+    "word": "bathroom",
+    "phonetic": "/ˈbæθruːm/",
+    "meaning": "Nhà tắm",
+    "example": "Where is the bathroom?",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1507652313519-d4e9174996dd"
+  },
+  {
+    "word": "be",
+    "phonetic": "/biː/",
+    "meaning": "Thì, là, ở",
+    "example": "I want to be a doctor.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1504805572947-34fad45aed93"
+  },
+  {
+    "word": "beach",
+    "phonetic": "/biːtʃ/",
+    "meaning": "Bãi biển",
+    "example": "We spent the day at the beach.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+  },
+  {
+    "word": "beautiful",
+    "phonetic": "/ˈbjuːtɪfəl/",
+    "meaning": "Đẹp",
+    "example": "You look beautiful tonight.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4"
+  },
+  {
+    "word": "because",
+    "phonetic": "/bɪˈkɔːz/",
+    "meaning": "Bởi vì",
+    "example": "I stayed home because it was raining.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1513002749550-c59d786b8e6c"
+  },
+  {
+    "word": "become",
+    "phonetic": "/bɪˈkʌm/",
+    "meaning": "Trở thành",
+    "example": "She wants to become a pilot.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1446776653964-20c1d3a81b06"
+  },
+  {
+    "word": "bed",
+    "phonetic": "/bed/",
+    "meaning": "Giường",
+    "example": "It's time to go to bed.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85"
+  },
+  {
+    "word": "bedroom",
+    "phonetic": "/ˈbedruːm/",
+    "meaning": "Phòng ngủ",
+    "example": "My bedroom is very cozy.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1505693314120-0d443867891c"
+  },
+  {
+    "word": "beer",
+    "phonetic": "/bɪr/",
+    "meaning": "Bia",
+    "example": "He ordered a glass of beer.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1535958636474-b021ee887b13"
+  },
+  {
+    "word": "before",
+    "phonetic": "/bɪˈfɔːr/",
+    "meaning": "Trước",
+    "example": "Think before you speak.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1474631245212-32dc3c8310c6"
+  },
+  {
+    "word": "begin",
+    "phonetic": "/bɪˈɡɪn/",
+    "meaning": "Bắt đầu",
+    "example": "Let's begin the lesson.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa"
+  },
+  {
+    "word": "beginning",
+    "phonetic": "/bɪˈɡɪnɪŋ/",
+    "meaning": "Sự bắt đầu",
+    "example": "The beginning of the movie was very exciting.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1506784365847-bbad939e9335"
+  },
+  {
+    "word": "behind",
+    "phonetic": "/bɪˈhaɪnd/",
+    "meaning": "Phía sau",
+    "example": "The sun disappeared behind the clouds.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4"
+  },
+  {
+    "word": "believe",
+    "phonetic": "/bɪˈliːv/",
+    "meaning": "Tin tưởng",
+    "example": "I believe in you.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216"
+  },
+  {
+    "word": "below",
+    "phonetic": "/bɪˈloʊ/",
+    "meaning": "Dưới",
+    "example": "The temperature dropped below zero.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4"
+  },
+  {
+    "word": "best",
+    "phonetic": "/best/",
+    "meaning": "Tốt nhất",
+    "example": "She is the best student in class.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173"
+  },
+  {
+    "word": "better",
+    "phonetic": "/ˈbetər/",
+    "meaning": "Tốt hơn",
+    "example": "Practice will make you better.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1456406644174-8ddd4cd52a06"
+  },
+  {
+    "word": "between",
+    "phonetic": "/bɪˈtwiːn/",
+    "meaning": "Giữa",
+    "example": "The library is between the bank and the school.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1447958374760-1ce6cf81db4f"
+  },
+  {
+    "word": "bicycle",
+    "phonetic": "/ˈbaɪsɪkəl/",
+    "meaning": "Xe đạp",
+    "example": "He rides his bicycle to work every day.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1485965120184-e220f721d03e"
+  },
+  {
+    "word": "big",
+    "phonetic": "/bɪɡ/",
+    "meaning": "Lớn",
+    "example": "They live in a big house.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688"
+  },
+  {
+    "word": "bike",
+    "phonetic": "/baɪk/",
+    "meaning": "Xe đạp",
+    "example": "Let's go for a bike ride.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1485965120184-e220f721d03e"
+  },
+  {
+    "word": "bill",
+    "phonetic": "/bɪl/",
+    "meaning": "Hóa đơn",
+    "example": "Can I have the bill, please?",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f"
+  },
+  {
+    "word": "bird",
+    "phonetic": "/bɜːrd/",
+    "meaning": "Chim",
+    "example": "The bird flew away.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1444464666168-49d633b86797"
+  },
+  {
+    "word": "birthday",
+    "phonetic": "/ˈbɜːrθdeɪ/",
+    "meaning": "Sinh nhật",
+    "example": "Happy birthday to you!",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1530103862676-de8c9debad1d"
+  },
+  {
+    "word": "black",
+    "phonetic": "/blæk/",
+    "meaning": "Đen, màu đen",
+    "example": "She wore a beautiful black dress.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d"
+  },
+  {
+    "word": "blog",
+    "phonetic": "/blɑːɡ/",
+    "meaning": "Blog",
+    "example": "She writes a travel blog.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a"
+  },
+  {
+    "word": "blonde",
+    "phonetic": "/blɑːnd/",
+    "meaning": "Vàng (tóc)",
+    "example": "He has blonde hair and blue eyes.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1511367461989-f85a21fda167"
+  },
+  {
+    "word": "blue",
+    "phonetic": "/bluː/",
+    "meaning": "Xanh, màu xanh",
+    "example": "The sky is blue today.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1469474968028-56623f02e42e"
+  },
+  {
+    "word": "boat",
+    "phonetic": "/boʊt/",
+    "meaning": "Thuyền",
+    "example": "We crossed the river by boat.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+  },
+  {
+    "word": "body",
+    "phonetic": "/ˈbɑːdi/",
+    "meaning": "Cơ thể",
+    "example": "Regular exercise is good for your body.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd"
+  },
+  {
+    "word": "book",
+    "phonetic": "/bʊk/",
+    "meaning": "Sách",
+    "example": "I am reading an interesting book.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66"
+  },
+  {
+    "word": "boot",
+    "phonetic": "/buːt/",
+    "meaning": "Ủng",
+    "example": "She wore warm boots in the snow.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1542835495-7b424be0e3bf"
+  },
+  {
+    "word": "bored",
+    "phonetic": "/bɔːrd/",
+    "meaning": "Chán",
+    "example": "I am bored with this game.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1525909002-1b05e0c869d8"
+  },
+  {
+    "word": "boring",
+    "phonetic": "/ˈbɔːrɪŋ/",
+    "meaning": "Nhàm chán",
+    "example": "The lecture was really boring.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1525909002-1b05e0c869d8"
+  },
+  {
+    "word": "born",
+    "phonetic": "/bɔːrn/",
+    "meaning": "Sinh ra",
+    "example": "She was born in 1995.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1519677584237-752f8853252e"
+  },
+  {
+    "word": "both",
+    "phonetic": "/boʊθ/",
+    "meaning": "Cả hai",
+    "example": "Both of them are teachers.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1"
+  },
+  {
+    "word": "bottle",
+    "phonetic": "/ˈbɑːtl/",
+    "meaning": "Chai",
+    "example": "Please bring a bottle of water.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1602143408252-99eb1c2ed49f"
+  },
+  {
+    "word": "box",
+    "phonetic": "/bɑːks/",
+    "meaning": "Hộp",
+    "example": "The gift is in a red box.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1549465220-1a8b9238cd48"
+  },
+  {
+    "word": "boy",
+    "phonetic": "/bɔɪ/",
+    "meaning": "Con trai",
+    "example": "The boy is playing football.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1503919721639-c9b9c47bc3a9"
+  },
+  {
+    "word": "boyfriend",
+    "phonetic": "/ˈbɔɪfrend/",
+    "meaning": "Bạn trai",
+    "example": "She introduced her boyfriend to her parents.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70"
+  },
+  {
+    "word": "bread",
+    "phonetic": "/bred/",
+    "meaning": "Bánh mì",
+    "example": "I eat bread with butter for breakfast.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff"
+  },
+  {
+    "word": "break",
+    "phonetic": "/breɪk/",
+    "meaning": "Phá vỡ, nghỉ giải lao",
+    "example": "Let's take a short break.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1513002749550-c59d786b8e6c"
+  },
+  {
+    "word": "breakfast",
+    "phonetic": "/ˈbrekfəst/",
+    "meaning": "Bữa sáng",
+    "example": "Breakfast is the most important meal of the day.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1533089860892-a7c6f0a88666"
+  },
+  {
+    "word": "bring",
+    "phonetic": "/brɪŋ/",
+    "meaning": "Mang",
+    "example": "Please bring your notebook tomorrow.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1484417894907-623942c8ee29"
+  },
+  {
+    "word": "brother",
+    "phonetic": "/ˈbrʌðər/",
+    "meaning": "Anh, em trai",
+    "example": "My brother is two years older than me.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d"
+  },
+  {
+    "word": "brown",
+    "phonetic": "/braʊn/",
+    "meaning": "Nâu, màu nâu",
+    "example": "He has brown eyes.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1500462918059-b1a0cb512f1d"
+  },
+  {
+    "word": "build",
+    "phonetic": "/bɪld/",
+    "meaning": "Xây dựng",
+    "example": "They want to build a new school.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1503387762-592deb58ef4e"
+  },
+  {
+    "word": "building",
+    "phonetic": "/ˈbɪldɪŋ/",
+    "meaning": "Tòa nhà",
+    "example": "That building is over 100 years old.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab"
+  },
+  {
+    "word": "bus",
+    "phonetic": "/bʌs/",
+    "meaning": "Xe buýt",
+    "example": "I take the bus to school every day.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957"
+  },
+  {
+    "word": "business",
+    "phonetic": "/ˈbɪznəs/",
+    "meaning": "Kinh doanh",
+    "example": "He runs his own business.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf"
+  },
+  {
+    "word": "busy",
+    "phonetic": "/ˈbɪzi/",
+    "meaning": "Bận rộn",
+    "example": "I am very busy this week.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4"
+  },
+  {
+    "word": "but",
+    "phonetic": "/bʌt/",
+    "meaning": "Nhưng",
+    "example": "I want to go, but I am tired.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa"
+  },
+  {
+    "word": "butter",
+    "phonetic": "/ˈbʌtər/",
+    "meaning": "Bơ",
+    "example": "Spread some butter on the bread.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1589985270826-4b7bb135bc9d"
+  },
+  {
+    "word": "buy",
+    "phonetic": "/baɪ/",
+    "meaning": "Mua",
+    "example": "I need to buy some milk.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3"
+  },
+  {
+    "word": "by",
+    "phonetic": "/baɪ/",
+    "meaning": "Bởi, gần",
+    "example": "The house is by the river.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05"
+  },
+  {
+    "word": "bye",
+    "phonetic": "/baɪ/",
+    "meaning": "Tạm biệt",
+    "example": "Bye! See you tomorrow.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1415369629372-26f2fe60c467"
+  },
+  {
+    "word": "cafe",
+    "phonetic": "/kæˈfeɪ/",
+    "meaning": "Quán cà phê",
+    "example": "Let's meet at the cafe downtown.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1442512595331-e89e73853f31"
+  },
+  {
+    "word": "cake",
+    "phonetic": "/keɪk/",
+    "meaning": "Bánh ngọt",
+    "example": "She baked a chocolate cake.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587"
+  },
+  {
+    "word": "call",
+    "phonetic": "/kɔːl/",
+    "meaning": "Gọi, cuộc gọi",
+    "example": "I will call you later.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
+  },
+  {
+    "word": "camera",
+    "phonetic": "/ˈkæmərə/",
+    "meaning": "Máy ảnh",
+    "example": "I take my camera everywhere.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1452780212940-6f5c0d14b848"
+  },
+  {
+    "word": "can",
+    "phonetic": "/kæn/",
+    "meaning": "Có thể",
+    "example": "I can swim very well.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1519904981063-b0cf448d479e"
+  },
+  {
+    "word": "cannot",
+    "phonetic": "/ˈkænɑːt/",
+    "meaning": "Không thể",
+    "example": "I cannot come to the party.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1525909002-1b05e0c869d8"
+  },
+  {
+    "word": "capital",
+    "phonetic": "/ˈkæpɪtəl/",
+    "meaning": "Thủ đô, viết hoa",
+    "example": "London is the capital of England.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1505761671935-60b3a7427bad"
+  },
+  {
+    "word": "car",
+    "phonetic": "/kɑːr/",
+    "meaning": "Xe hơi",
+    "example": "He bought a new car.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1494976388531-d1058494cdd8"
+  },
+  {
+    "word": "card",
+    "phonetic": "/kɑːrd/",
+    "meaning": "Thẻ, thiệp",
+    "example": "She sent me a birthday card.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1489278353717-f64c6ee8a4d2"
+  },
+  {
+    "word": "career",
+    "phonetic": "/kəˈrɪr/",
+    "meaning": "Sự nghiệp",
+    "example": "She has a successful career in law.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1475721027785-f74eccf877e2"
+  },
+  {
+    "word": "carrot",
+    "phonetic": "/ˈkærət/",
+    "meaning": "Cà rốt",
+    "example": "Rabbits love eating carrots.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1594794978478-d532c9d95c15"
+  },
+  {
+    "word": "carry",
+    "phonetic": "/ˈkæri/",
+    "meaning": "Mang",
+    "example": "Can you help me carry this box?",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1484417894907-623942c8ee29"
+  },
+  {
+    "word": "cat",
+    "phonetic": "/kæt/",
+    "meaning": "Con mèo",
+    "example": "My cat sleeps all day.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1513360371669-4adf3dd7dff8"
+  },
+  {
+    "word": "CD",
+    "phonetic": "/siː diː/",
+    "meaning": "Đĩa CD",
+    "example": "I still have my favorite CD from the 90s.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1613378889932-6ca22217797d"
+  },
+  {
+    "word": "cent",
+    "phonetic": "/sent/",
+    "meaning": "Xu (đơn vị tiền tệ)",
+    "example": "This candy costs 50 cents.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1580048915913-4f8f5cb481c4"
+  },
+  {
+    "word": "center",
+    "phonetic": "/ˈsentər/",
+    "meaning": "Trung tâm",
+    "example": "The shopping center is very crowded.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1447958374760-1ce6cf81db4f"
+  },
+  {
+    "word": "century",
+    "phonetic": "/ˈsentʃəri/",
+    "meaning": "Thế kỷ",
+    "example": "The 20th century brought many inventions.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1465433045946-ba6506ce5a59"
+  },
+  {
+    "word": "chair",
+    "phonetic": "/tʃer/",
+    "meaning": "Ghế",
+    "example": "Please take a seat on this chair.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1505843490714-5a3c19f1aead"
+  },
+  {
+    "word": "change",
+    "phonetic": "/tʃeɪndʒ/",
+    "meaning": "Thay đổi",
+    "example": "You need to change your habits.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1506784365847-bbad939e9335"
+  },
+  {
+    "word": "chart",
+    "phonetic": "/tʃɑːrt/",
+    "meaning": "Biểu đồ",
+    "example": "The chart shows the company's growth over five years.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71"
+  },
+  {
+    "word": "cheap",
+    "phonetic": "/tʃiːp/",
+    "meaning": "Rẻ",
+    "example": "This restaurant is cheap but good.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3"
+  },
+  {
+    "word": "check",
+    "phonetic": "/tʃek/",
+    "meaning": "Kiểm tra",
+    "example": "Please check your answers before submitting.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173"
+  },
+  {
+    "word": "cheese",
+    "phonetic": "/tʃiːz/",
+    "meaning": "Phô mai",
+    "example": "I love cheese on my pizza.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1486297678162-eb2a19b0a96d"
+  },
+  {
+    "word": "chicken",
+    "phonetic": "/ˈtʃɪkɪn/",
+    "meaning": "Gà",
+    "example": "We had roasted chicken for dinner.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1587593815543-0977c3287f0b"
+  },
+  {
+    "word": "chocolate",
+    "phonetic": "/ˈtʃɑːklət/",
+    "meaning": "Sô cô la",
+    "example": "Dark chocolate is good for health.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1549007994-cb92caebd019"
+  },
+  {
+    "word": "choose",
+    "phonetic": "/tʃuːz/",
+    "meaning": "Chọn",
+    "example": "You can choose any color you like.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b"
+  },
+  {
+    "word": "cinema",
+    "phonetic": "/ˈsɪnəmə/",
+    "meaning": "Rạp chiếu phim",
+    "example": "Let's go to the cinema tonight.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba"
+  },
+  {
+    "word": "city",
+    "phonetic": "/ˈsɪti/",
+    "meaning": "Thành phố",
+    "example": "New York is a busy city.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1444723121867-7a241cacace9"
+  },
+  {
+    "word": "class",
+    "phonetic": "/klæs/",
+    "meaning": "Lớp học",
+    "example": "I have English class at 9 AM.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1"
+  },
+  {
+    "word": "classroom",
+    "phonetic": "/ˈklæsruːm/",
+    "meaning": "Phòng học",
+    "example": "The classroom is clean and bright.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1580582932707-520aed937b7b"
+  },
+  {
+    "word": "clean",
+    "phonetic": "/kliːn/",
+    "meaning": "Sạch sẽ",
+    "example": "Please keep your room clean.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1527515637462-cff94eecc1ac"
+  },
+  {
+    "word": "climb",
+    "phonetic": "/klaɪm/",
+    "meaning": "Leo",
+    "example": "He wants to climb Mount Everest.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1522163182402-834f871fd851"
+  },
+  {
+    "word": "clock",
+    "phonetic": "/klɑːk/",
+    "meaning": "Đồng hồ",
+    "example": "The clock on the wall is slow.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1508057198894-247b23fe5ade"
+  },
+  {
+    "word": "close",
+    "phonetic": "/kloʊz/",
+    "meaning": "Đóng",
+    "example": "Please close the door.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1488972685288-c3fd157d7c7a"
+  },
+  {
+    "word": "clothes",
+    "phonetic": "/kloʊðz/",
+    "meaning": "Quần áo",
+    "example": "I need to buy new clothes for summer.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1489987707025-afc232f7ea0f"
+  },
+  {
+    "word": "club",
+    "phonetic": "/klʌb/",
+    "meaning": "Câu lạc bộ",
+    "example": "She joined a book club.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1527529482837-4698179dc6ce"
+  },
+  {
+    "word": "coat",
+    "phonetic": "/koʊt/",
+    "meaning": "Áo khoác",
+    "example": "Wear your coat. It's cold outside.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1539533113208-f6df8cc8b543"
+  },
+  {
+    "word": "coffee",
+    "phonetic": "/ˈkɔːfi/",
+    "meaning": "Cà phê",
+    "example": "I drink coffee every morning.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1442512595331-e89e73853f31"
+  },
+  {
+    "word": "cold",
+    "phonetic": "/koʊld/",
+    "meaning": "Lạnh, cảm lạnh",
+    "example": "I have a cold and need to rest.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1521369909029-2afed882baee"
+  },
+  {
+    "word": "college",
+    "phonetic": "/ˈkɑːlɪdʒ/",
+    "meaning": "Trường cao đẳng, đại học",
+    "example": "She is studying at a local college.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f"
+  },
+  {
+    "word": "color",
+    "phonetic": "/ˈkʌlər/",
+    "meaning": "Màu sắc",
+    "example": "What is your favorite color?",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1541701494587-cb58502866ab"
+  },
+  {
+    "word": "common",
+    "phonetic": "/ˈkɑːmən/",
+    "meaning": "Phổ biến",
+    "example": "This bird is common in Europe.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1444464666168-49d633b86797"
+  },
+  {
+    "word": "company",
+    "phonetic": "/ˈkʌmpəni/",
+    "meaning": "Công ty",
+    "example": "He works for a large company.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1497215728101-856f4ea42164"
+  },
+  {
+    "word": "compare",
+    "phonetic": "/kəmˈper/",
+    "meaning": "So sánh",
+    "example": "Let's compare our answers.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1456406644174-8ddd4cd52a06"
+  },
+  {
+    "word": "complete",
+    "phonetic": "/kəmˈpliːt/",
+    "meaning": "Hoàn chỉnh, hoàn thiện",
+    "example": "Please complete the form.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b"
+  },
+  {
+    "word": "computer",
+    "phonetic": "/kəmˈpjuːtər/",
+    "meaning": "Máy tính",
+    "example": "I use my computer for work.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085"
+  },
+  {
+    "word": "concert",
+    "phonetic": "/ˈkɑːnsərt/",
+    "meaning": "Buổi hòa nhạc",
+    "example": "We went to a rock concert last night.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1429962714451-bb934ecdc4ec"
+  },
+  {
+    "word": "conversation",
+    "phonetic": "/ˌkɑːnvərˈseɪʃən/",
+    "meaning": "Cuộc trò chuyện",
+    "example": "I had a nice conversation with my neighbor.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1511795409834-ef04bbd61622"
+  },
+  {
+    "word": "cook",
+    "phonetic": "/kʊk/",
+    "meaning": "Nấu ăn",
+    "example": "I will cook dinner tonight.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1556911220-bda9f5f3e6e3"
+  },
+  {
+    "word": "cooking",
+    "phonetic": "/ˈkʊkɪŋ/",
+    "meaning": "Việc nấu ăn",
+    "example": "Cooking is a useful life skill.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1556911220-bda9f5f3e6e3"
+  },
+  {
+    "word": "cool",
+    "phonetic": "/kuːl/",
+    "meaning": "Mát mẻ",
+    "example": "The weather is cool in autumn.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d"
+  },
+  {
+    "word": "correct",
+    "phonetic": "/kəˈrekt/",
+    "meaning": "Đúng, sửa",
+    "example": "That is the correct answer.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173"
+  },
+  {
+    "word": "cost",
+    "phonetic": "/kɔːst/",
+    "meaning": "Giá cả, tốn kém",
+    "example": "How much does this phone cost?",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3"
+  },
+  {
+    "word": "could",
+    "phonetic": "/kʊd/",
+    "meaning": "Có thể (quá khứ của can)",
+    "example": "When I was young, I could run fast.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1519904981063-b0cf448d479e"
+  },
+  {
+    "word": "country",
+    "phonetic": "/ˈkʌntri/",
+    "meaning": "Đất nước",
+    "example": "Vietnam is a beautiful country.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1433086966358-54859d0ed716"
+  },
+  {
+    "word": "course",
+    "phonetic": "/kɔːrs/",
+    "meaning": "Khóa học",
+    "example": "I am taking an English course.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173"
+  },
+  {
+    "word": "cousin",
+    "phonetic": "/ˈkʌzn/",
+    "meaning": "Anh chị em họ",
+    "example": "My cousin lives in Canada.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1519677584237-752f8853252e"
+  },
+  {
+    "word": "cow",
+    "phonetic": "/kaʊ/",
+    "meaning": "Con bò",
+    "example": "The cow gives us milk.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1570042225831-d98fa7577f1e"
+  },
+  {
+    "word": "cream",
+    "phonetic": "/kriːm/",
+    "meaning": "Kem",
+    "example": "Would you like cream in your coffee?",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1563729784474-d77dbb933a9e"
+  },
+  {
+    "word": "create",
+    "phonetic": "/kriˈeɪt/",
+    "meaning": "Tạo ra",
+    "example": "Artists create beautiful works.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b"
+  },
+  {
+    "word": "culture",
+    "phonetic": "/ˈkʌltʃər/",
+    "meaning": "Văn hóa",
+    "example": "I love learning about different cultures.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1528164344705-47542687000d"
+  },
+  {
+    "word": "cup",
+    "phonetic": "/kʌp/",
+    "meaning": "Tách, cốc",
+    "example": "Can I have a cup of tea?",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1517251594525-6bf67d6e96e2"
+  },
+  {
+    "word": "customer",
+    "phonetic": "/ˈkʌstəmər/",
+    "meaning": "Khách hàng",
+    "example": "The customer is always right.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1556742049-0cfed2f73e5d"
+  },
+  {
+    "word": "cut",
+    "phonetic": "/kʌt/",
+    "meaning": "Cắt",
+    "example": "Please cut the vegetables.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1566380477105-d70fe5af7aed"
+  },
+  {
+    "word": "dad",
+    "phonetic": "/dæd/",
+    "meaning": "Bố",
+    "example": "My dad works in an office.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d"
+  },
+  {
+    "word": "dance",
+    "phonetic": "/dæns/",
+    "meaning": "Nhảy múa",
+    "example": "She loves to dance.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad"
+  },
+  {
+    "word": "dancer",
+    "phonetic": "/ˈdænsər/",
+    "meaning": "Vũ công",
+    "example": "He is a professional dancer.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad"
+  },
+  {
+    "word": "dancing",
+    "phonetic": "/ˈdænsɪŋ/",
+    "meaning": "Việc nhảy múa",
+    "example": "Dancing is fun and healthy.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad"
+  },
+  {
+    "word": "dangerous",
+    "phonetic": "/ˈdeɪndʒərəs/",
+    "meaning": "Nguy hiểm",
+    "example": "It is dangerous to text while driving.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1516815231560-8f41ec531527"
+  },
+  {
+    "word": "dark",
+    "phonetic": "/dɑːrk/",
+    "meaning": "Tối",
+    "example": "The room was completely dark.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1508615263227-c5d58c1e5821"
+  },
+  {
+    "word": "date",
+    "phonetic": "/deɪt/",
+    "meaning": "Ngày, cuộc hẹn",
+    "example": "What is today's date?",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1506784365847-bbad939e9335"
+  },
+  {
+    "word": "daughter",
+    "phonetic": "/ˈdɔːtər/",
+    "meaning": "Con gái",
+    "example": "Their daughter is a doctor.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1519677584237-752f8853252e"
+  },
+  {
+    "word": "day",
+    "phonetic": "/deɪ/",
+    "meaning": "Ngày",
+    "example": "Have a nice day!",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1500462918059-b1a0cb512f1d"
+  },
+  {
+    "word": "dear",
+    "phonetic": "/dɪr/",
+    "meaning": "Thân yêu, quý mến",
+    "example": "Dear Sir, I am writing to complain.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1586281380117-2243a849e0c0"
+  },
+  {
+    "word": "december",
+    "phonetic": "/dɪˈsembər/",
+    "meaning": "Tháng 12",
+    "example": "December is the last month of the year.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1517299321609-52687d1bc55a"
+  },
+  {
+    "word": "decide",
+    "phonetic": "/dɪˈsaɪd/",
+    "meaning": "Quyết định",
+    "example": "You need to decide now.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b"
+  },
+  {
+    "word": "delicious",
+    "phonetic": "/dɪˈlɪʃəs/",
+    "meaning": "Ngon",
+    "example": "This meal is delicious!",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c"
+  },
+  {
+    "word": "describe",
+    "phonetic": "/dɪˈskraɪb/",
+    "meaning": "Mô tả",
+    "example": "Can you describe the suspect?",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1456324504439-367cee3b3c32"
+  },
+  {
+    "word": "description",
+    "phonetic": "/dɪˈskrɪpʃən/",
+    "meaning": "Sự mô tả",
+    "example": "The description matched exactly.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1456324504439-367cee3b3c32"
+  },
+  {
+    "word": "design",
+    "phonetic": "/dɪˈzaɪn/",
+    "meaning": "Thiết kế",
+    "example": "She studied graphic design.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1581291518633-83b4ebd1d83e"
+  },
+  {
+    "word": "desk",
+    "phonetic": "/desk/",
+    "meaning": "Bàn",
+    "example": "My desk is always messy.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1518455027359-f3f8164ba6bd"
+  },
+  {
+    "word": "detail",
+    "phonetic": "/ˈdiːteɪl/",
+    "meaning": "Chi tiết",
+    "example": "Please explain in detail.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1456324504439-367cee3b3c32"
+  },
+  {
+    "word": "dialogue",
+    "phonetic": "/ˈdaɪəlɑːɡ/",
+    "meaning": "Cuộc đối thoại",
+    "example": "The dialogue in the movie was funny.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1511795409834-ef04bbd61622"
+  },
+  {
+    "word": "dictionary",
+    "phonetic": "/ˈdɪkʃəneri/",
+    "meaning": "Từ điển",
+    "example": "Look up the word in a dictionary.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1527515637462-cff94eecc1ac"
+  },
+  {
+    "word": "die",
+    "phonetic": "/daɪ/",
+    "meaning": "Chết",
+    "example": "Many plants die in winter.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1504502350688-00f5d59bb918"
+  },
+  {
+    "word": "diet",
+    "phonetic": "/ˈdaɪət/",
+    "meaning": "Chế độ ăn kiêng",
+    "example": "A healthy diet is important.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1490645935967-10de6ba17061"
+  },
+  {
+    "word": "difference",
+    "phonetic": "/ˈdɪfrəns/",
+    "meaning": "Sự khác biệt",
+    "example": "Can you see the difference?",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1456406644174-8ddd4cd52a06"
+  },
+  {
+    "word": "different",
+    "phonetic": "/ˈdɪfrənt/",
+    "meaning": "Khác",
+    "example": "They have different opinions.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1529408686214-b48b8532f72c"
+  },
+  {
+    "word": "difficult",
+    "phonetic": "/ˈdɪfɪkəlt/",
+    "meaning": "Khó, khó khăn",
+    "example": "This exercise is very difficult.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1456406644174-8ddd4cd52a06"
+  },
+  {
+    "word": "dinner",
+    "phonetic": "/ˈdɪnər/",
+    "meaning": "Bữa tối",
+    "example": "We have dinner at 7 PM.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1"
+  },
+  {
+    "word": "dirty",
+    "phonetic": "/ˈdɜːrti/",
+    "meaning": "Bẩn",
+    "example": "These dishes are dirty.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1527515637462-cff94eecc1ac"
+  },
+  {
+    "word": "discuss",
+    "phonetic": "/dɪˈskʌs/",
+    "meaning": "Thảo luận",
+    "example": "Let's discuss the plan.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1511795409834-ef04bbd61622"
+  },
+  {
+    "word": "dish",
+    "phonetic": "/dɪʃ/",
+    "meaning": "Món ăn, đĩa",
+    "example": "This is my favorite dish.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c"
+  },
+  {
+    "word": "do",
+    "phonetic": "/duː/",
+    "meaning": "Làm",
+    "example": "What do you want to do?",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1456406644174-8ddd4cd52a06"
+  },
+  {
+    "word": "doctor",
+    "phonetic": "/ˈdɑːktər/",
+    "meaning": "Bác sĩ",
+    "example": "You should see a doctor.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7"
+  },
+  {
+    "word": "dog",
+    "phonetic": "/dɔːɡ/",
+    "meaning": "Con chó",
+    "example": "I have a pet dog.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1543466835-00a7907e9de1"
+  },
+  {
+    "word": "dollar",
+    "phonetic": "/ˈdɑːlər/",
+    "meaning": "Đô la",
+    "example": "This costs ten dollars.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1580048915913-4f8f5cb481c4"
+  },
+  {
+    "word": "door",
+    "phonetic": "/dɔːr/",
+    "meaning": "Cửa",
+    "example": "Please close the door.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1488972685288-c3fd157d7c7a"
+  },
+  {
+    "word": "down",
+    "phonetic": "/daʊn/",
+    "meaning": "Xuống",
+    "example": "Sit down, please.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4"
+  },
+  {
+    "word": "downstairs",
+    "phonetic": "/ˌdaʊnˈsterz/",
+    "meaning": "Tầng dưới",
+    "example": "The kitchen is downstairs.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688"
+  },
+  {
+    "word": "draw",
+    "phonetic": "/drɔː/",
+    "meaning": "Vẽ",
+    "example": "I like to draw animals.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b"
+  },
+  {
+    "word": "dress",
+    "phonetic": "/dres/",
+    "meaning": "Váy, mặc",
+    "example": "She wore a beautiful red dress.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d"
+  },
+  {
+    "word": "drink",
+    "phonetic": "/drɪŋk/",
+    "meaning": "Đồ uống, uống",
+    "example": "I drink water every day.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1548839147-d9c5c6c6c0f2"
+  },
+  {
+    "word": "drive",
+    "phonetic": "/draɪv/",
+    "meaning": "Lái xe",
+    "example": "Can you drive a car?",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1494976388531-d1058494cdd8"
+  },
+  {
+    "word": "driver",
+    "phonetic": "/ˈdraɪvər/",
+    "meaning": "Tài xế",
+    "example": "He is a bus driver.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05"
+  },
+  {
+    "word": "during",
+    "phonetic": "/ˈdʊrɪŋ/",
+    "meaning": "Trong suốt (thời gian)",
+    "example": "I fell asleep during the movie.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba"
+  },
+  {
+    "word": "each",
+    "phonetic": "/iːtʃ/",
+    "meaning": "Mỗi",
+    "example": "Each student has a textbook.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1"
+  },
+  {
+    "word": "ear",
+    "phonetic": "/ɪr/",
+    "meaning": "Tai",
+    "example": "She whispered something in my ear.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1505751172876-fa4f2c1d8e2d"
+  },
+  {
+    "word": "early",
+    "phonetic": "/ˈɜːrli/",
+    "meaning": "Sớm",
+    "example": "I woke up early this morning.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1506784365847-bbad939e9335"
+  },
+  {
+    "word": "east",
+    "phonetic": "/iːst/",
+    "meaning": "Phía đông",
+    "example": "The sun rises in the east.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1469474968028-56623f02e42e"
+  },
+  {
+    "word": "easy",
+    "phonetic": "/ˈiːzi/",
+    "meaning": "Dễ dàng",
+    "example": "This test is very easy.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1456406644174-8ddd4cd52a06"
+  },
+  {
+    "word": "eat",
+    "phonetic": "/iːt/",
+    "meaning": "Ăn",
+    "example": "I eat breakfast at 7 AM.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836"
+  },
+  {
+    "word": "egg",
+    "phonetic": "/eɡ/",
+    "meaning": "Trứng",
+    "example": "I usually have eggs for breakfast.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1582722872445-44dc5f7e3c8f"
+  },
+  {
+    "word": "eight",
+    "phonetic": "/eɪt/",
+    "meaning": "Số tám",
+    "example": "I wake up at eight o'clock.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1508057198894-247b23fe5ade"
+  },
+  {
+    "word": "eighteen",
+    "phonetic": "/ˌeɪˈtiːn/",
+    "meaning": "Số 18",
+    "example": "She is eighteen years old.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b"
+  },
+  {
+    "word": "eighty",
+    "phonetic": "/ˈeɪti/",
+    "meaning": "80",
+    "example": "My grandfather is eighty years old.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1503443207922-dff7d543fd0e"
+  },
+  {
+    "word": "elephant",
+    "phonetic": "/ˈelɪfənt/",
+    "meaning": "Con voi",
+    "example": "An elephant never forgets.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1557050543-4d5f4e07ef46"
+  },
+  {
+    "word": "eleven",
+    "phonetic": "/ɪˈlevən/",
+    "meaning": "11",
+    "example": "The meeting starts at eleven.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1508057198894-247b23fe5ade"
+  },
+  {
+    "word": "else",
+    "phonetic": "/els/",
+    "meaning": "Khác",
+    "example": "What else do you need?",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1456406644174-8ddd4cd52a06"
+  },
+  {
+    "word": "email",
+    "phonetic": "/ˈiːmeɪl/",
+    "meaning": "Thư điện tử",
+    "example": "I sent you an email yesterday.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d"
+  },
+  {
+    "word": "end",
+    "phonetic": "/end/",
+    "meaning": "Kết thúc",
+    "example": "The movie has a happy ending.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1506784365847-bbad939e9335"
+  },
+  {
+    "word": "enjoy",
+    "phonetic": "/ɪnˈdʒɔɪ/",
+    "meaning": "Thích",
+    "example": "I enjoy reading books.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66"
+  },
+  {
+    "word": "enough",
+    "phonetic": "/ɪˈnʌf/",
+    "meaning": "Đủ",
+    "example": "Do we have enough money?",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3"
+  },
+  {
+    "word": "euro",
+    "phonetic": "/ˈjʊroʊ/",
+    "meaning": "Đồng euro",
+    "example": "The ticket costs 50 euros.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1580048915913-4f8f5cb481c4"
+  },
+  {
+    "word": "even",
+    "phonetic": "/ˈiːvən/",
+    "meaning": "Thậm chí",
+    "example": "Even a child can do this.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1456406644174-8ddd4cd52a06"
+  },
+  {
+    "word": "evening",
+    "phonetic": "/ˈiːvnɪŋ/",
+    "meaning": "Buổi tối",
+    "example": "We usually watch TV in the evening.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1500462918059-b1a0cb512f1d"
+  },
+  {
+    "word": "event",
+    "phonetic": "/ɪˈvent/",
+    "meaning": "Sự kiện",
+    "example": "The concert was a great event.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1429962714451-bb934ecdc4ec"
+  },
+  {
+    "word": "ever",
+    "phonetic": "/ˈevər/",
+    "meaning": "Từng",
+    "example": "Have you ever been to London?",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1505761671935-60b3a7427bad"
+  },
+  {
+    "word": "every",
+    "phonetic": "/ˈevri/",
+    "meaning": "Mỗi",
+    "example": "She goes to the gym every day.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1506784365847-bbad939e9335"
+  },
+  {
+    "word": "everybody",
+    "phonetic": "/ˈevribɑːdi/",
+    "meaning": "Mọi người",
+    "example": "Everybody likes ice cream.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216"
+  },
+  {
+    "word": "everyone",
+    "phonetic": "/ˈevriwʌn/",
+    "meaning": "Mọi người",
+    "example": "Everyone is welcome to join.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216"
+  },
+  {
+    "word": "everything",
+    "phonetic": "/ˈevriθɪŋ/",
+    "meaning": "Mọi thứ",
+    "example": "Everything is going well.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1456406644174-8ddd4cd52a06"
+  },
+  {
+    "word": "exam",
+    "phonetic": "/ɪɡˈzæm/",
+    "meaning": "Kỳ thi",
+    "example": "I have a math exam tomorrow.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173"
+  },
+  {
+    "word": "example",
+    "phonetic": "/ɪɡˈzæmpəl/",
+    "meaning": "Ví dụ",
+    "example": "Let me give you an example.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1456406644174-8ddd4cd52a06"
+  },
+  {
+    "word": "excited",
+    "phonetic": "/ɪkˈsaɪtɪd/",
+    "meaning": "Hào hứng",
+    "example": "I am excited about the trip.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70"
+  },
+  {
+    "word": "exciting",
+    "phonetic": "/ɪkˈsaɪtɪŋ/",
+    "meaning": "Thú vị",
+    "example": "This is an exciting movie.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba"
+  },
+  {
+    "word": "exercise",
+    "phonetic": "/ˈeksərsaɪz/",
+    "meaning": "Bài tập",
+    "example": "Do exercise every day to stay healthy.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd"
+  },
+  {
+    "word": "expensive",
+    "phonetic": "/ɪkˈspensɪv/",
+    "meaning": "Đắt đỏ",
+    "example": "This watch is very expensive.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3"
+  },
+  {
+    "word": "explain",
+    "phonetic": "/ɪkˈspleɪn/",
+    "meaning": "Giải thích",
+    "example": "Can you explain the rule again?",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1456406644174-8ddd4cd52a06"
+  },
+  {
+    "word": "extra",
+    "phonetic": "/ˈekstrə/",
+    "meaning": "Thêm",
+    "example": "Do you want extra cheese on your pizza?",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1486297678162-eb2a19b0a96d"
+  },
+  {
+    "word": "eye",
+    "phonetic": "/aɪ/",
+    "meaning": "Mắt",
+    "example": "She has beautiful blue eyes.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1511367461989-f85a21fda167"
+  },
+  {
+    "word": "face",
+    "phonetic": "/feɪs/",
+    "meaning": "Khuôn mặt",
+    "example": "He has a friendly face.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e"
+  },
+  {
+    "word": "fact",
+    "phonetic": "/fækt/",
+    "meaning": "Sự thật",
+    "example": "Tell me the facts.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1456406644174-8ddd4cd52a06"
+  },
+  {
+    "word": "fall",
+    "phonetic": "/fɔːl/",
+    "meaning": "Ngã, rơi",
+    "example": "Leaves fall in autumn.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d"
+  },
+  {
+    "word": "false",
+    "phonetic": "/fɔːls/",
+    "meaning": "Sai, giả",
+    "example": "Is the statement true or false?",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1456406644174-8ddd4cd52a06"
+  },
+  {
+    "word": "family",
+    "phonetic": "/ˈfæməli/",
+    "meaning": "Gia đình",
+    "example": "I love spending time with my family.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1519677584237-752f8853252e"
+  },
+  {
+    "word": "famous",
+    "phonetic": "/ˈfeɪməs/",
+    "meaning": "Nổi tiếng",
+    "example": "He is a famous singer.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1509347528160-9a9e33742cdb"
+  },
+  {
+    "word": "fantastic",
+    "phonetic": "/fænˈtæstɪk/",
+    "meaning": "Tuyệt vời",
+    "example": "You look fantastic today!",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4"
+  },
+  {
+    "word": "far",
+    "phonetic": "/fɑːr/",
+    "meaning": "Xa",
+    "example": "The station is far from here.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+  },
+  {
+    "word": "farm",
+    "phonetic": "/fɑːrm/",
+    "meaning": "Trang trại",
+    "example": "They live on a small farm.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1500382017468-9049fed747ef"
+  },
+  {
+    "word": "farmer",
+    "phonetic": "/ˈfɑːrmər/",
+    "meaning": "Nông dân",
+    "example": "The farmer grows vegetables.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1500382017468-9049fed747ef"
+  },
+  {
+    "word": "fast",
+    "phonetic": "/fæst/",
+    "meaning": "Nhanh",
+    "example": "He runs very fast.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1519904981063-b0cf448d479e"
+  },
+  {
+    "word": "fat",
+    "phonetic": "/fæt/",
+    "meaning": "Béo",
+    "example": "The cat is fat and lazy.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1513360371669-4adf3dd7dff8"
+  },
+  {
+    "word": "father",
+    "phonetic": "/ˈfɑːðər/",
+    "meaning": "Bố",
+    "example": "My father works at a bank.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d"
+  },
+  {
+    "word": "favourite",
+    "phonetic": "/ˈfeɪvərɪt/",
+    "meaning": "Yêu thích",
+    "example": "Blue is my favourite color.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1541701494587-cb58502866ab"
+  },
+  {
+    "word": "February",
+    "phonetic": "/ˈfebrueri/",
+    "meaning": "Tháng hai",
+    "example": "February is the shortest month.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1523348837708-15d4a09cfac2"
+  },
+  {
+    "word": "feel",
+    "phonetic": "/fiːl/",
+    "meaning": "Cảm thấy",
+    "example": "I feel happy today.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e"
+  },
+  {
+    "word": "feeling",
+    "phonetic": "/ˈfiːlɪŋ/",
+    "meaning": "Cảm giác",
+    "example": "I have a good feeling about this.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e"
+  },
+  {
+    "word": "festival",
+    "phonetic": "/ˈfestɪvəl/",
+    "meaning": "Lễ hội",
+    "example": "We celebrate the harvest festival every year.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3"
+  },
+  {
+    "word": "few",
+    "phonetic": "/fjuː/",
+    "meaning": "Một vài, một ít",
+    "example": "I have a few friends in this city.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216"
+  },
+  {
+    "word": "fifteen",
+    "phonetic": "/ˌfɪfˈtiːn/",
+    "meaning": "Mười lăm",
+    "example": "She is fifteen years old.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b"
+  },
+  {
+    "word": "fifth",
+    "phonetic": "/fɪfθ/",
+    "meaning": "Thứ năm",
+    "example": "Today is the fifth of May.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1506784365847-bbad939e9335"
+  },
+  {
+    "word": "fifty",
+    "phonetic": "/ˈfɪfti/",
+    "meaning": "50",
+    "example": "My father is fifty years old.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1503443207922-dff7d543fd0e"
+  },
+  {
+    "word": "fill",
+    "phonetic": "/fɪl/",
+    "meaning": "Điền vào",
+    "example": "Please fill out this form.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1581291518633-83b4ebd1d83e"
+  },
+  {
+    "word": "film",
+    "phonetic": "/fɪlm/",
+    "meaning": "Bộ phim",
+    "example": "Let's watch a film tonight.",
+    "category": "Vocabulary",
+    "image": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba"
+  }
+]

@@ -5,7 +5,6 @@ interface Props {
 }
 export default async function TestVocab({ params }: Props) {
     const { topic } = await params;
-    console.log("param", params)
     return <div>
         <ContainerTestVocab topic={topic} />
     </div>
